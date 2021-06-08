@@ -1,0 +1,29 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "name": "Nashville East",
+            "area": 2000,
+            "accessible": false
+        },
+        {
+            "id": 2,
+            "name": "Nashville North",
+            "area": 1000,
+            "accessible": true
+        },
+        {
+            "id": 3,
+            "name": "Nashville South",
+            "area": 4000,
+            "accessible": false
+        },
+        {
+            "id": 4,
+            "name": "Nashville West",
+            "area": 3000,
+            "accessible": true
+        }
+
+    ]
+}
